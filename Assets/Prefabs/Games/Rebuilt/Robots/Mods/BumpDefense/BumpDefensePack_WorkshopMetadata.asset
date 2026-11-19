@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ffd97bda344b518d04b8600ee71ef6, type: 3}
+  m_Name: BumpDefensePack_WorkshopMetadata
+  m_EditorClassIdentifier: 
+  modpack: {fileID: 11400000, guid: 3c8f2e91a6b54710bc4d9e2f7a1c5d08, type: 2}
+  title: Bump Defense
+  description: Splitscreen P2 bump-defense AI using Competitive Concept.
+  previewImage: {fileID: 2800000, guid: f685f5d70dc8242009ec627d95ca712d, type: 3}
+  tags: []
+  visibility: 2
+  publishedFileId: 3842295972
+  autoBumpPatchOnBuild: 0

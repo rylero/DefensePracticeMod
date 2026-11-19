@@ -1,0 +1,33 @@
+MoSimulator Public Repository License
+Copyright (c) 2026 Cascade Studios LLP. All rights reserved.
+
+1. Grant of License
+Subject to the terms and conditions of this License, Cascade Studios LLP grants you a limited, non-exclusive, non-transferable, revocable license to use, modify, and build upon the contents of this repository solely for the purpose of creating custom robots ("Mods") for the game MoSim.
+
+2. Distribution Restrictions
+Releasing, distributing, or hosting Mods created using this repository anywhere other than the officially designated location(s) is expressly prohibited. All Mod submissions must be made exclusively through the official submission system.
+
+3. Non-Commercial Use (No Monetization)
+Mods and their creation must be provided entirely free of charge. Charging money for Mods, soliciting payment for mod creation services, or locking related content behind paywalls is expressly prohibited. All Mods must remain freely available to the community.
+
+4. Asset Extraction and Reverse Engineering
+Attempting to extract CAD files, 3D models, or any other proprietary assets from this repository, the MoSim base game, or other Mods is expressly prohibited. This repository and its contents are provided for gameplay programming and modding purposes only. Reverse engineering or unauthorized asset extraction is strictly forbidden.
+
+5. Promotional Use
+By submitting or publicly sharing a Mod created using this repository, you grant Cascade Studios LLP a perpetual, royalty-free, worldwide license to use your Mod—including screenshots, videos, and other derivative media—for promotional content, marketing materials, and other official MoSim communications.
+
+6. Security, Compliance, and Moderation
+
+Security: Mods must not include malicious code, viruses, spyware, or any harmful software.
+
+Intellectual Property: Mods must respect all intellectual property rights and must not infringe on third-party copyrights, trademarks, or patents.
+
+Legal Compliance: Mod creators are solely responsible for ensuring their Mods comply with all applicable local and international laws.
+
+Enforcement: Cascade Studios LLP reserves the right to blacklist, remove, or modify any Mod that violates these terms at its sole discretion, without prior notice.
+
+7. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use of the repository and destroy all copies of its contents in your possession.
+
+8. Disclaimer of Warranty
+THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL CASCADE STUDIOS LLP BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE REPOSITORY OR THE USE OR OTHER DEALINGS IN THE REPOSITORY.
